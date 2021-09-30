@@ -131,3 +131,5 @@ dmypy.json
 # other project file/folder
 Labelled/
 *.csv
+img/
+*.p
